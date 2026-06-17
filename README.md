@@ -2,11 +2,6 @@
 
 > Dual-branch CNN that fuses Sentinel-1 SAR and Sentinel-2 optical imagery for terrain classification — **98.38% SAR · 98.08% Optical · 99.75% Fusion (val)**
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Notebook-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)
-
 ---
 
 ## Overview
